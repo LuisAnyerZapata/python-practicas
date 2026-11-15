@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Archivos generados por los scripts
+gastos.json
+diario.txt
